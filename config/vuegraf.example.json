@@ -1,0 +1,36 @@
+{
+    "detailedIntervalSecs": -1000,
+    "influxDb": {
+        "host": "influxdb",
+        "port": 8086,
+        "database": "vue",
+        "user": "admin",
+	"pass": "admin",
+	"reset": false,
+        "ssl_enable": false,
+        "ssl_verify": true
+    },
+    "accounts": [
+        {
+            "name": "Primary Residence",
+            "email": "email",
+            "password": "Emporia Password",
+            "devices": [
+                {
+                    "name": "Main Box",
+                    "channels": [
+                        "Channel 1",
+                        "Channel 2"
+                    ]
+                },
+                {
+                    "name": "inside panel",
+                    "channels": [
+                        "Channel 1",
+                        "Channel 2"
+                    ]
+                }
+            ]
+        }
+    ]
+}

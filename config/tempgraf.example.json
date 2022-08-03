@@ -1,0 +1,9 @@
+{
+    "interval_seconds": 60,
+    "api_key": "api_key",
+    "city_name": "Apopka",
+    "influx_host": "influxdb",
+    "influx_port": 8086,
+    "influx_user": "admin",
+    "influx_pass": "admin"
+}
