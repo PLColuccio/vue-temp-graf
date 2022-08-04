@@ -15,6 +15,7 @@ git clone git@github.com:PLColuccio/vue-temp-graf.git
 ```
 
 Edit example configuration files in ~/vue-temp-graf/config and remove .example from the filename.
+To create your own api key go to the OpenWeatherMap site: https://openweathermap.org/api
 
 ```
 cd vue-temp-graf
