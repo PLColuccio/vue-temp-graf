@@ -22,4 +22,5 @@ cd vue-temp-graf
 docker-compose up
 ```
 
+From there connect the data sources in grafana, then import the dashboard, or create your own dashboards.
 
